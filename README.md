@@ -1,5 +1,6 @@
 # CLEANY
-<img width="80" height="80" alt="icons8-broom-80" src="https://github.com/user-attachments/assets/b490d26b-e07c-4107-bdd6-52dc95773826" />
+<img width="923" height="497" alt="Screen Shot 2025-09-20 at 1 54 45 PM" src="https://github.com/user-attachments/assets/70f4194f-53fe-4f5f-a428-2147b9ae441f" />
+
 
 A tool to manage, clean, and optimize your file storage.
 
