@@ -1,0 +1,92 @@
+2025-09-03 15:00:56,403 - INFO - Storage Manager initialized for directory: {self.directory}
+2025-09-03 15:00:56,404 - ERROR - Directory does not exist : /path/to/your/files
+2025-09-03 15:00:56,404 - ERROR - Directory does not exist:/path/to/your/files
+2025-09-03 15:01:26,306 - INFO - Storage Manager initialized for directory: {self.directory}
+2025-09-03 15:01:26,307 - ERROR - Directory does not exist : /path/to/your/files
+2025-09-03 15:01:26,307 - ERROR - Directory does not exist:/path/to/your/files
+2025-09-03 15:16:38,252 - INFO - Storage Manager initialized for directory: {self.directory}
+2025-09-03 15:16:
+2025-09-03 15:16:38,254 - ERROR - Directory does not exist:/path/to/your/files
+2025-09-03 15:46:05,160 - INFO - Storage Manager initialized for directory: {self.directory}
+2025-09-04 15:47:23,507 - INFO - Storage Manager initialized for directory: {self.directory}
+2025-09-04 15:49:01,715 - INFO - Storage Manager initialized for directory: {self.directory}
+2025-09-04 15:49:01,720 - INFO - Permanently deleted old file: /Users/aacellular/Desktop/junk/lena_gray.gif
+2025-09-04 15:49:01,722 - INFO - Permanently deleted old file: /Users/aacellular/Desktop/junk/Screen Shot 2024-02-04 at 1.47.54 PM 2.png
+2025-09-04 15:49:01,727 - INFO - Permanently deleted old file: /Users/aacellular/Desktop/junk/Screen Shot 2024-02-04 at 1.48.47 PM.png
+2025-09-04 15:49:01,731 - INFO - Permanently deleted old file: /Users/aacellular/Desktop/junk/Dian fossey gr.png
+2025-09-04 15:49:01,737 - INFO - Permanently deleted old file: /Users/aacellular/Desktop/junk/Screen Shot 2024-03-02 at 2.50.12 PM.png
+2025-09-04 15:49:01,739 - INFO - Permanently deleted old file: /Users/aacellular/Desktop/junk/lena_gray 4.gif
+2025-09-04 15:49:01,739 - INFO - Old file cleanup completed. files deleted: 6
+2025-09-04 15:55:37,857 - INFO - Storage Manager initialized for directory: {self.directory}
+2025-09-04 15:55:42,550 - INFO - Compressed image : /Users/aacellular/Desktop/junk/Screen Shot 2024-06-07 at 5.17.43 PM.png (quality=80)| Original=0.42 MB -> New =0.32 MB | Saved=0.10 MB (24.1%)
+2025-09-04 15:55:46,045 - INFO - Compressed image : /Users/aacellular/Desktop/junk/Screen Shot 2024-06-17 at 4.30.46 PM.png (quality=80)| Original=0.54 MB -> New =0.45 MB | Saved=0.09 MB (17.5%)
+2025-09-04 15:55:46,394 - INFO - Compressed image : /Users/aacellular/Desktop/junk/Screen Shot 2024-03-02 at 2.55.18 PM.png (quality=80)| Original=0.30 MB -> New =0.29 MB | Saved=0.00 MB (1.4%)
+2025-09-04 15:55:46,918 - INFO - Compressed image : /Users/aacellular/Desktop/junk/Screen Shot 2024-06-17 at 4.21.41 PM.png (quality=80)| Original=0.19 MB -> New =0.17 MB | Saved=0.02 MB (12.6%)
+2025-09-04 15:55:47,346 - INFO - Compressed image : /Users/aacellular/Desktop/junk/Screen Shot 2024-06-17 at 4.17.54 PM.png (quality=80)| Original=0.11 MB -> New =0.09 MB | Saved=0.02 MB (18.7%)
+2025-09-04 15:55:48,315 - INFO - Compressed image : /Users/aacellular/Desktop/junk/Screen Shot 2024-06-17 at 4.20.32 PM.png (quality=80)| Original=0.15 MB -> New =0.12 MB | Saved=0.03 MB (19.5%)
+2025-09-04 15:55:48,545 - INFO - Compressed image : /Users/aacellular/Desktop/junk/Screen Shot 2024-03-09 at 3.37.21 PM.png (quality=80)| Original=0.21 MB -> New =0.21 MB | Saved=0.00 MB (1.9%)
+2025-09-04 15:55:53,010 - INFO - Compressed image : /Users/aacellular/Desktop/junk/Screen Shot 2024-06-07 at 5.17.43 PM copy.png (quality=80)| Original=0.42 MB -> New =0.32 MB | Saved=0.10 MB (24.1%)
+2025-09-04 15:55:57,597 - INFO - Compressed image : /Users/aacellular/Desktop/junk/Screen Shot 2024-06-07 at 5.17.43 PM copy 4.png (quality=80)| Original=0.42 MB -> New =0.32 MB | Saved=0.10 MB (24.1%)
+2025-09-04 15:56:02,034 - INFO - Compressed image : /Users/aacellular/Desktop/junk/Screen Shot 2024-06-07 at 5.17.43 PM copy 5.png (quality=80)| Original=0.42 MB -> New =0.32 MB | Saved=0.10 MB (24.1%)
+2025-09-04 15:56:02,983 - INFO - Compressed image : /Users/aacellular/Desktop/junk/Screen Shot 2024-06-07 at 5.24.38 PM copy 2.png (quality=80)| Original=0.10 MB -> New =0.06 MB | Saved=0.04 MB (36.7%)
+2025-09-04 15:56:03,864 - INFO - Compressed image : /Users/aacellular/Desktop/junk/Screen Shot 2024-06-07 at 5.24.38 PM copy 3.png (quality=80)| Original=0.10 MB -> New =0.06 MB | Saved=0.04 MB (36.7%)
+2025-09-04 15:56:08,725 - INFO - Compressed image : /Users/aacellular/Desktop/junk/Screen Shot 2024-06-07 at 5.17.43 PM copy 2.png (quality=80)| Original=0.42 MB -> New =0.32 MB | Saved=0.10 MB (24.1%)
+2025-09-04 15:56:09,675 - INFO - Compressed image : /Users/aacellular/Desktop/junk/Screen Shot 2024-06-07 at 5.24.38 PM copy 7.png (quality=80)| Original=0.10 MB -> New =0.06 MB | Saved=0.04 MB (36.7%)
+2025-09-04 15:56:10,745 - INFO - Compressed image : /Users/aacellular/Desktop/junk/Screen Shot 2024-06-07 at 5.24.38 PM copy 6.png (quality=80)| Original=0.10 MB -> New =0.06 MB | Saved=0.04 MB (36.7%)
+2025-09-04 15:56:15,877 - INFO - Compressed image : /Users/aacellular/Desktop/junk/Screen Shot 2024-06-07 at 5.17.43 PM copy 3.png (quality=80)| Original=0.42 MB -> New =0.32 MB | Saved=0.10 MB (24.1%)
+2025-09-04 15:56:16,907 - INFO - Compressed image : /Users/aacellular/Desktop/junk/Screen Shot 2024-06-07 at 5.24.38 PM copy 4.png (quality=80)| Original=0.10 MB -> New =0.06 MB | Saved=0.04 MB (36.7%)
+2025-09-04 15:56:17,946 - INFO - Compressed image : /Users/aacellular/Desktop/junk/Screen Shot 2024-06-07 at 5.24.38 PM copy 5.png (quality=80)| Original=0.10 MB -> New =0.06 MB | Saved=0.04 MB (36.7%)
+2025-09-16 12:30:46,875 - INFO - Storage Manager initialized for directory: {self.directory}
+2025-09-16 12:30:46,972 - INFO - Deleted duplicate file: /Users/aacellular/Desktop/junk/Screen Shot 2024-06-07 at 5.17.43 PM copy 4.png
+2025-09-16 12:30:46,977 - INFO - Deleted duplicate file: /Users/aacellular/Desktop/junk/Screen Shot 2024-06-07 at 5.17.43 PM copy 5.png
+2025-09-16 12:30:46,989 - INFO - Deleted duplicate file: /Users/aacellular/Desktop/junk/Screen Shot 2024-06-07 at 5.24.38 PM copy 3.png
+2025-09-16 12:30:46,997 - INFO - Deleted duplicate file: /Users/aacellular/Desktop/junk/Screen Shot 2024-06-07 at 5.17.43 PM copy 2.png
+2025-09-16 12:30:47,006 - INFO - Deleted duplicate file: /Users/aacellular/Desktop/junk/Screen Shot 2024-06-07 at 5.24.38 PM copy 7.png
+2025-09-16 12:30:47,010 - INFO - Deleted duplicate file: /Users/aacellular/Desktop/junk/Screen Shot 2024-06-07 at 5.24.38 PM copy 6.png
+2025-09-16 12:30:47,020 - INFO - Deleted duplicate file: /Users/aacellular/Desktop/junk/Screen Shot 2024-06-07 at 5.17.43 PM copy 3.png
+2025-09-16 12:30:47,023 - INFO - Deleted duplicate file: /Users/aacellular/Desktop/junk/Screen Shot 2024-06-07 at 5.24.38 PM copy 4.png
+2025-09-16 12:30:47,027 - INFO - Deleted duplicate file: /Users/aacellular/Desktop/junk/Screen Shot 2024-06-07 at 5.24.38 PM copy 5.png
+2025-09-16 12:30:47,028 - INFO - Duplicate file cleanup completed. Files deleted: 9
+2025-09-16 14:43:06,619 - INFO - Storage Manager initialized for directory: {self.directory}
+2025-09-16 14:43:06,635 - INFO - Edit history checked: /Users/aacellular/Desktop/junk/Screen Shot 2024-06-07 at 5.17.43 PM.png - Last modified:2024-06-07 17:17:49.129548
+2025-09-16 14:43:06,635 - INFO - Edit history checked: /Users/aacellular/Desktop/junk/Screen Shot 2024-06-17 at 4.30.46 PM.png - Last modified:2025-09-04 15:55:46.037358
+2025-09-16 14:43:06,636 - INFO - Edit history checked: /Users/aacellular/Desktop/junk/Screen Shot 2024-05-31 at 2.32.04 PM.png - Last modified:2024-05-31 14:32:09.753179
+2025-09-16 14:43:06,636 - INFO - Edit history checked: /Users/aacellular/Desktop/junk/Screen Shot 2024-03-09 at 10.24.26 AM.png - Last modified:2024-03-09 10:24:31.900407
+2025-09-16 14:43:06,636 - INFO - Edit history checked: /Users/aacellular/Desktop/junk/Screen Shot 2024-03-09 at 3.50.34 PM.png - Last modified:2024-03-09 15:50:39.787278
+2025-09-16 14:43:06,637 - INFO - Edit history checked: /Users/aacellular/Desktop/junk/Screen Shot 2024-03-02 at 2.55.18 PM.png - Last modified:2025-09-04 15:55:46.393830
+2025-09-16 14:43:06,637 - INFO - Edit history checked: /Users/aacellular/Desktop/junk/Screen Shot 2024-06-17 at 4.21.41 PM.png - Last modified:2025-09-04 15:55:46.918059
+2025-09-16 14:43:06,637 - INFO - Edit history checked: /Users/aacellular/Desktop/junk/Screen Shot 2024-06-17 at 4.17.54 PM.png - Last modified:2025-09-04 15:55:47.345685
+2025-09-16 14:43:06,638 - INFO - Edit history checked: /Users/aacellular/Desktop/junk/Screen Shot 2024-02-04 at 1.47.54 PM.png - Last modified:2024-02-04 13:48:01.795482
+2025-09-16 14:43:06,638 - INFO - Edit history checked: /Users/aacellular/Desktop/junk/Screen Shot 2024-06-17 at 4.20.32 PM.png - Last modified:2025-09-04 15:55:48.315303
+2025-09-16 14:43:06,638 - INFO - Edit history checked: /Users/aacellular/Desktop/junk/Screen Shot 2024-03-09 at 3.37.21 PM.png - Last modified:2025-09-04 15:55:48.545345
+2025-09-16 14:43:06,638 - INFO - Edit history checked: /Users/aacellular/Desktop/junk/Screen Shot 2024-06-07 at 5.11.02 PM.png - Last modified:2024-06-07 17:11:08.589058
+2025-09-16 14:43:06,638 - INFO - Edit history checked: /Users/aacellular/Desktop/junk/Screen Shot 2024-03-02 at 2.57.58 PM.png - Last modified:2024-03-02 14:58:02.767586
+2025-09-16 14:43:06,638 - INFO - Edit history checked: /Users/aacellular/Desktop/junk/Screen Shot 2024-03-09 at 4.00.56 PM.png - Last modified:2024-03-09 16:01:02.481058
+2025-09-16 14:43:06,638 - INFO - Edit history checked: /Users/aacellular/Desktop/junk/Screen Shot 2024-06-07 at 5.17.43 PM copy.png - Last modified:2025-09-04 15:55:53.001283
+2025-09-16 14:43:06,639 - INFO - Edit history checked: /Users/aacellular/Desktop/junk/Screen Shot 2024-03-02 at 3.02.31 PM.png - Last modified:2024-03-02 15:02:35.696820
+2025-09-16 14:43:06,639 - INFO - Edit history checked: /Users/aacellular/Desktop/junk/Screen Shot 2024-06-07 at 5.24.38 PM copy 2.png - Last modified:2025-09-04 15:56:02.983036
+2025-09-16 14:43:06,639 - INFO - Edit history checked: /Users/aacellular/Desktop/junk/icons8-broom-80.png - Last modified:2025-09-03 14:20:43.671764
+2025-09-17 18:34:32,563 - INFO - Storage Manager initialized for directory: {self.directory}
+2025-09-17 18:34:32,564 - ERROR - Directory does not exist:Users/aacellular/Desktop/junk
+2025-09-17 18:35:35,674 - INFO - Storage Manager initialized for directory: {self.directory}
+2025-09-17 18:35:35,675 - ERROR - Directory does not exist:Users/aacellular/Desktop/junk
+2025-09-17 18:36:55,842 - INFO - Storage Manager initialized for directory: {self.directory}
+2025-09-17 18:36:55,846 - INFO - Edit history checked: /Users/aacellular/Desktop/junk/Screen Shot 2024-06-07 at 5.17.43 PM.png - Last modified:2024-06-07 17:17:49.129548
+2025-09-17 18:36:55,846 - INFO - Edit history checked: /Users/aacellular/Desktop/junk/Screen Shot 2025-09-16 at 2.46.01 PM 2.png - Last modified:2025-09-16 14:49:49.992195
+2025-09-17 18:36:55,847 - INFO - Edit history checked: /Users/aacellular/Desktop/junk/Screen Shot 2024-06-17 at 4.30.46 PM.png - Last modified:2025-09-04 15:55:46.037358
+2025-09-17 18:36:55,847 - INFO - Edit history checked: /Users/aacellular/Desktop/junk/Screen Shot 2024-05-31 at 2.32.04 PM.png - Last modified:2024-05-31 14:32:09.753179
+2025-09-17 18:36:55,847 - INFO - Edit history checked: /Users/aacellular/Desktop/junk/Screen Shot 2024-03-09 at 10.24.26 AM.png - Last modified:2024-03-09 10:24:31.900407
+2025-09-17 18:36:55,847 - INFO - Edit history checked: /Users/aacellular/Desktop/junk/Screen Shot 2024-03-09 at 3.50.34 PM.png - Last modified:2024-03-09 15:50:39.787278
+2025-09-17 18:36:55,847 - INFO - Edit history checked: /Users/aacellular/Desktop/junk/Screen Shot 2024-03-02 at 2.55.18 PM.png - Last modified:2025-09-04 15:55:46.393830
+2025-09-17 18:36:55,847 - INFO - Edit history checked: /Users/aacellular/Desktop/junk/Screen Shot 2024-06-17 at 4.21.41 PM.png - Last modified:2025-09-04 15:55:46.918059
+2025-09-17 18:36:55,847 - INFO - Edit history checked: /Users/aacellular/Desktop/junk/Screen Shot 2024-06-17 at 4.17.54 PM.png - Last modified:2025-09-04 15:55:47.345685
+2025-09-17 18:36:55,848 - INFO - Edit history checked: /Users/aacellular/Desktop/junk/Screen Shot 2024-02-04 at 1.47.54 PM.png - Last modified:2024-02-04 13:48:01.795482
+2025-09-17 18:36:55,848 - INFO - Edit history checked: /Users/aacellular/Desktop/junk/Screen Shot 2024-06-17 at 4.20.32 PM.png - Last modified:2025-09-04 15:55:48.315303
+2025-09-17 18:36:55,848 - INFO - Edit history checked: /Users/aacellular/Desktop/junk/Screen Shot 2024-03-09 at 3.37.21 PM.png - Last modified:2025-09-04 15:55:48.545345
+2025-09-17 18:36:55,848 - INFO - Edit history checked: /Users/aacellular/Desktop/junk/Screen Shot 2024-06-07 at 5.11.02 PM.png - Last modified:2024-06-07 17:11:08.589058
+2025-09-17 18:36:55,848 - INFO - Edit history checked: /Users/aacellular/Desktop/junk/Screen Shot 2024-03-02 at 2.57.58 PM.png - Last modified:2024-03-02 14:58:02.767586
+2025-09-17 18:36:55,849 - INFO - Edit history checked: /Users/aacellular/Desktop/junk/Screen Shot 2024-03-09 at 4.00.56 PM.png - Last modified:2024-03-09 16:01:02.481058
+2025-09-17 18:36:55,849 - INFO - Edit history checked: /Users/aacellular/Desktop/junk/Screen Shot 2024-06-07 at 5.17.43 PM copy.png - Last modified:2025-09-04 15:55:53.001283
+2025-09-17 18:36:55,849 - INFO - Edit history checked: /Users/aacellular/Desktop/junk/Screen Shot 2024-03-02 at 3.02.31 PM.png - Last modified:2024-03-02 15:02:35.696820
+2025-09-17 18:36:55,849 - INFO - Edit history checked: /Users/aacellular/Desktop/junk/Screen Shot 2024-06-07 at 5.24.38 PM copy 2.png - Last modified:2025-09-04 15:56:02.983036
+2025-09-17 18:36:55,850 - INFO - Edit history checked: /Users/aacellular/Desktop/junk/icons8-broom-80.png - Last modified:2025-09-03 14:20:43.671764
